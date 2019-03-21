@@ -11,7 +11,7 @@
 
   function cancel(){
     document.write();
-    window.location.assign("login.php");
+    window.location.assign("index.php");
 
   }
 </script>
